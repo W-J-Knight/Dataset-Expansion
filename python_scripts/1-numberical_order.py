@@ -1,4 +1,4 @@
-+"""rename pictures
+"""rename pictures
 as a number list
 1.jpg, 2.jpg, 3.jpg, 4.jpg and etc...
 """
