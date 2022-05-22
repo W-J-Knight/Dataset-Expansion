@@ -1,4 +1,4 @@
-# Dataset  Expansion by Augmentation  With Lables to Match for YOLO5
+# Dataset  Expansion by Augmentation  With Labels to Match for YOLO5
 
 1. install vertual python enveriment
      ```bash
