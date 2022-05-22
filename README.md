@@ -4,7 +4,7 @@
      ```bash
     python3 -m venv venv
     ```
-1.  active pytyon enveriment
+1.  active python enveriment
     ```bash
     source venv/bin/activate
     ```
@@ -70,6 +70,6 @@
     ```bash
     python3 ./python_scripts/6-bright_dark.py 
     ```
-    
+
 
 
